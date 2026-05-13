@@ -23,7 +23,6 @@ This dashboard provides a clear overview of marketing performance using interact
 - Power BI
 - Power Query
 - DAX
-- Excel
 
 ---
 
