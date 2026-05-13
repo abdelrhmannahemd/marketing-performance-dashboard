@@ -1,56 +1,60 @@
-# marketing-performance-dashboard
- Objectives
-Analyze Profit vs Spend across campaigns and devices
-Evaluate marketing efficiency using key KPIs
-Track ROAS, ROI, CTR, CPC, CPA
-Measure lead conversion performance
-Identify top-performing channels and campaigns
+# Marketing Campaign Performance Analysis | Power BI
 
- Key Metrics
-ROAS (Return on Ad Spend) → Revenue generated per 1 unit of ad spend
-ROI (Return on Investment) → Overall profitability
-CTR (Click Through Rate) → Ad engagement rate
-CPC (Cost per Click) → Cost per user click
-CPA (Cost per Acquisition) → Cost per conversion
-Conversion Rate → Leads converted to customers
-Total Profit / Total Spend / Budget
+## Project Overview
+This project presents an interactive Power BI dashboard designed to analyze marketing campaign performance and evaluate key business KPIs such as conversions, ROI, CTR, and campaign effectiveness.
 
- Dashboard Pages
+The dashboard helps transform raw marketing data into actionable insights to support better marketing decisions and improve campaign efficiency.
 
-1️: Overview
-Total Budget, Spend, Profit, Profit Margin
-Profit vs Spend by Campaign & Device
-Monthly Profit Trend
-Profit by Channel
+---
 
-2️: Performance Analysis
-ROAS vs ROI by Campaign
-CPC vs CPA by Device
-CTR by Channel
-ROAS Trend over Time
+## Business Problem
+Marketing teams often struggle to identify:
+- High-performing campaigns
+- Customer engagement trends
+- ROI across marketing channels
+- Conversion effectiveness
+- Cost efficiency of campaigns
 
-3️: Lead Analysis
-Total Leads & Conversions
-Conversion Rate by Channel
-Leads by Status (Converted, Lost, Contacted, New)
-Monthly Leads Trend
-Avg Lead Score by Status
+This dashboard provides a clear overview of marketing performance using interactive visualizations and KPI tracking.
 
- Tools & Technologies
-Power BI (Data Visualization & Dashboarding)
+---
 
-Power Query (Data Cleaning & Transformation)
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Excel
 
-DAX (Measures & Calculations)
+---
 
-Excel Dataset
+## Dashboard Features
+- KPI Cards
+- Campaign Performance Analysis
+- Conversion Tracking
+- ROI Analysis
+- CTR & CPC Monitoring
+- Interactive Filters & Slicers
+- Trend Analysis
+- Channel Performance Comparison
 
- Key Insights
+---
 
-Identified top-performing campaigns with highest ROAS & ROI
+## Key KPIs
+- Conversion Rate
+- CTR (Click Through Rate)
+- CPC (Cost Per Click)
+- CPA (Cost Per Acquisition)
+- ROI
+- Total Revenue
+- Campaign Reach
+- Customer Engagement
 
-Compared marketing efficiency across different devices
+---
 
-Analyzed channel performance based on CTR & conversions
+## Key Insights
+- Identified the highest-performing marketing campaigns.
+- Analyzed customer engagement across different channels.
+- Detected campaigns with high CPC but low conversion rates.
+- Improved visibility into ROI trends and campaign effectiveness.
+- Compared campaign performance to support data-driven decision-making.
 
-Evaluated lead quality using conversion rate and lead score
